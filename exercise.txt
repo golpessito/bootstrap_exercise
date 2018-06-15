@@ -1,0 +1,8 @@
+On large and medium screens, we want the following:
+
+At the top of the page, we have a navigation bar, and underneath a carousel of 4 images.
+The navigation must function with scrollspy. Home should take you to the first block, the "Who are we?" should take you to the second block, and “Contact” to the form. This should all be fluid.
+
+The first two are text and images, and the third is a form. You must consider the transparency of the background image (0.5 is a good value). All of this is followed by the bottom bar with social network buttons.
+
+On tablets and smartphones, the carousel and navigation remain unchanged except the navigation bar should collapse:
